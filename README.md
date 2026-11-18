@@ -1,6 +1,6 @@
 # AI-Powered AR Virtual Try-On with PSCI
 
-This repository houses the final-year B.Tech project: **AI-Powered AR Virtual Try-On with Personalized Style Compatibility Index (PSCI)**.
+This repository houses the  B.Tech project: **AI-Powered AR Virtual Try-On with Personalized Style Compatibility Index (PSCI)**.
 
 ---
 
