@@ -1,0 +1,8 @@
+Run ID,Garment ID,Total Frames,Tracked Frames,Tracking Ratio,Success State,Normalized Alignment Error,Average FPS,Average Latency (ms)
+1,00006_00,37,0,0.0,False,N/A,3.5,155.1
+2,00006_00,47,0,0.0,False,N/A,4.5,118.7
+3,00006_00,44,0,0.0,False,N/A,4.2,127.9
+4,00006_00,36,0,0.0,False,N/A,3.5,156.5
+5,00006_00,73,20,0.274,False,0.0816,7.1,76.1
+6,00006_00,37,0,0.0,False,N/A,3.6,144.6
+7,00006_00,36,0,0.0,False,N/A,3.5,153.0
